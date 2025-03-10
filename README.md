@@ -7,7 +7,7 @@ This project demonstrates how to deploy a scalable, secure, and highly available
 The deployment consists of:
 
 - Presentation Layer (Frontend) – Load balancer distributing traffic to web servers.
-![presentation-layer](D:\terraform-projects\3-tier-architecture\assets\3-tier-web-tier-frontend.png)
+![presentation-layer](https://github.com/achenchi7/3-tier-architecture-in-AWS-with-Terraform/blob/main/assets/3-tier-web-tier-frontend.png)
 - Application Layer (Backend) – Auto-scaled EC2 instances handling business logic.
 - Data Layer (Database) – Managed RDS instance for data persistence.
 
